@@ -1,0 +1,18 @@
+{
+  "name": "mailprint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Mocha",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "imap": "^0.8.19",
+    "mailparser": "^3.6.5",
+    "node-printer": "^1.0.4",
+    "nodemailer": "^6.9.7"
+  }
+}
